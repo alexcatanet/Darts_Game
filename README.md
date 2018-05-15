@@ -1,18 +1,22 @@
-## Darts Tracker App
+#  Darts Tracker App
 
-This Darts App project was developed within the scholarship program (Android Basics by Google).
+   This Darts App project was developed within the scholarship program (Android Basics by Google).
 
-1.  For the reason of convenience, I decided to present only some of the possible points to add, especially: 1, 5, 10 and 20 - the buttons add points on onClick.
 
-2. The maximum number of points to be achieved is 180. In this case, in Java, I created the method with if/else 3 conditions which will prevent you from adding more than 180 points, and will pop up a toast message “You cannot obtain more than 180 points!”. But, instead will leave you to add a smaller value. (For ex: you have 176, you will not be able to add 5, 10, 20 because it exceeds 180, but you can still add 1)
-Also, once you get 180 points another toast message pop up: “180 points, Player 2 - You Win!” and the score resets.
+- For the reason of convenience, I decided to present only some of the possible points to add, especially: 1, 5, 10 and 20 - the buttons add points on onClick.
 
-3.  **The background image and scores are saved while turning the landscape mode.**
+-  The maximum number of points to be achieved is 180. In this case, in Java, I created the method with if/else 3 conditions which will prevent you from adding more than 180 points, and will pop up a toast message “You cannot obtain more than 180 points!”. But, instead will leave you to add a smaller value. (For ex: you have 176, you will not be able to add 5, 10, 20 because it exceeds 180, but you can still add 1)
 
-4. As something new, I also added an icon of darts in action bar, placed in the drawable folder.
-The background image is set to all dimensions in mipmap folder (hdpi, ldpi, mdpi, xhdpi, xxhdpi, xxxhdpi) .
+- Once you get 180 points another toast message pop up: “180 points, Player 2 - You Win!” and the score resets.
 
-5. Scroll within the app is activated.
+- The background image and scores are saved while turning the landscape mode.
+
+- Added an icon of darts in action bar, placed in the drawable folder.
+
+- The background image is set to all dimensions in mipmap folder (hdpi, ldpi, mdpi, xhdpi, xxhdpi, xxxhdpi) .
+
+- Scroll within the app is activated.
+
 
 Please find below the screenshots of the active app (as well as the gif file): 
 

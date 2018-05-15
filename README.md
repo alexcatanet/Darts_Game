@@ -1,6 +1,6 @@
 ## Darts Tracker App
 
-This Darts App project was developed within the internship program (Android Basics by Google Nanodegree Program).
+This Darts App project was developed within the scholarship program (Android Basics by Google).
 
 1.  For the reason of convenience, I decided to present only some of the possible points to add, especially: 1, 5, 10 and 20 - the buttons add points on onClick.
 
